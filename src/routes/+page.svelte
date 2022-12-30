@@ -22,7 +22,7 @@
 	</h1>
 
 	<h2>
-		click the +/- :)
+		click the +/- 
 	</h2>
 
 	<Counter />
