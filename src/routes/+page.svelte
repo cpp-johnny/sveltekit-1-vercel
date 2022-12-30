@@ -21,9 +21,9 @@
 		to my new<br />SvelteKit app
 	</h1>
 
-	<h1>
-		click the +
-	</h1>
+	<h2>
+		click the +/- :)
+	</h2>
 
 	<Counter />
 </section>
