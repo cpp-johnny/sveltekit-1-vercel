@@ -20,18 +20,15 @@
 
 		to my new<br />SvelteKit app
 	</h1>
-
-	<h1>
-		counter 
-	</h1>
 	
 	<h2>
-		click the +/- 
+		<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">surprise</a>
+	</h2>
+	
+	<h2>
+		counter :o 
 	</h2>
 
-	<h2>
-		<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">click me</a>
-	</h2>
 	
 	<Counter />
 </section>
